@@ -1,0 +1,19 @@
+{
+	"name": "app",
+	"version": "0.0.0",
+	"ngApp": {
+		"settings": {
+			"app:name": "test-app"
+		},
+		"modules": [
+			"ngRoute",
+			"ngMessages"
+		]
+	},
+	"dependencies": {
+		"angular": "^1.8.2",
+		"angular-route": "^1.8.2",
+		"angular-messages": "^1.8.2",
+		"jquery": "^3.4.1"
+	}
+}
